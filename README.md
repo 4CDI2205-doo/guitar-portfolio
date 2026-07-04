@@ -52,6 +52,10 @@ GitHub Pagesで公開しています
 ・JavaScript
 ・レスポンシブ対応
 ・GitHub管理
+
+---
+
+
 ## 工夫した点
 
 ### デザイン
