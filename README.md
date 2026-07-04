@@ -1,5 +1,28 @@
 # イダローの音楽生活
 
+## ホームページ
+
+![ホーム](images/index_picture.png)
+
+---
+
+## 機材紹介
+
+![機材紹介](images/gear_picture.png)
+
+---
+
+## 活動履歴
+
+![活動履歴](images/activity_picture.png)
+
+---
+
+## お問い合わせ
+
+![お問い合わせ](images/contact_picture.png)
+
+---
 ## 概要
 
 「イダローの音楽生活」は、ギター・ベースをテーマにした個人Webサイトです。
