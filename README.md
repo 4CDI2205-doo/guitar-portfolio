@@ -13,6 +13,7 @@
 ## 公開ページ
 
 https://4cdi2205-doo.github.io/guitar-portfolio/
+GitHub Pagesで公開しています
 
 ---
 
@@ -39,6 +40,18 @@ https://4cdi2205-doo.github.io/guitar-portfolio/
 
 ---
 
+## 制作情報
+
+制作期間：2026年6月～7月
+
+制作人数：1人
+
+担当
+・デザイン
+・HTML/CSS
+・JavaScript
+・レスポンシブ対応
+・GitHub管理
 ## 工夫した点
 
 ### デザイン
