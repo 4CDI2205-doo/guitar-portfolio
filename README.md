@@ -1,4 +1,3 @@
-<img width="1065" height="7200" alt="index_picture" src="https://github.com/user-attachments/assets/1de595ae-1b4d-48b8-9338-87a009ba585a" />
 # イダローの音楽生活
 
 ## ホームページ
