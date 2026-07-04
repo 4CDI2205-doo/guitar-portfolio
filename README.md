@@ -1,26 +1,27 @@
+<img width="1065" height="7200" alt="index_picture" src="https://github.com/user-attachments/assets/1de595ae-1b4d-48b8-9338-87a009ba585a" />
 # イダローの音楽生活
 
 ## ホームページ
 
-![ホーム](images/index_picture.png)
+<img width="1065" height="7200" alt="index_picture" src="https://github.com/user-attachments/assets/1de595ae-1b4d-48b8-9338-87a009ba585a" />
 
 ---
 
 ## 機材紹介
 
-![機材紹介](images/gear_picture.png)
+<img width="1065" height="6083" alt="gear_picture" src="https://github.com/user-attachments/assets/00f478a2-e413-4969-93cb-4fbe7bc52396" />
 
 ---
 
 ## 活動履歴
 
-![活動履歴](images/activity_picture.png)
+<img width="1065" height="8322" alt="activity_picture" src="https://github.com/user-attachments/assets/60fea47e-fe17-42f5-a5f8-361741ed83ec" />
 
 ---
 
 ## お問い合わせ
 
-![お問い合わせ](images/contact_picture.png)
+<img width="1065" height="4458" alt="contact_picture" src="https://github.com/user-attachments/assets/0bf9d03e-9d71-47a9-b867-ded32ac10a3f" />
 
 ---
 ## 概要
