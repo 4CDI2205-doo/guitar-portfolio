@@ -8,7 +8,7 @@
 
 ## 機材紹介
 
-<img width="1065" height="6083" alt="gear_picture" src="https://github.com/user-attachments/assets/00f478a2-e413-4969-93cb-4fbe7bc52396" />
+<img width="391" height="8192" alt="gear_picture " src="https://github.com/user-attachments/assets/c03194b3-6b03-4086-94ab-484337e47540" />
 
 ---
 
